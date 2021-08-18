@@ -1,6 +1,10 @@
 # Neural Networks - Traffic
  AI that identifies which traffic sign appears in a photograph.
  
+## Database
+* Download the [data set](https://cdn.cs50.net/ai/2020/x/projects/5/gtsrb.zip) (about 180Mb) and unzip it. Move the resulting ``gtsrb`` directory inside of your ``traffic`` directory.
+    * This is the [German Traffic Sign Recognition Benchmark (GTSRB)](http://benchmark.ini.rub.de/?section=gtsrb&subsection=news) dataset, which contains thousands of images of 43 different kinds of road signs.
+ 
 ## Experimentation
 A convolutional neural network was built using the source code of lecture 5 as foundation. 
 After that, changes were made in order to verify what effect each one would have in the model's loss and accuracy. The modifications were cumulative, and the submitted code was the result of the test number **10**.
