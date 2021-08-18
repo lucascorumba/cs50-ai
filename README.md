@@ -1,2 +1,3 @@
-# cs50-ai
-Projects for CS50 Introduction to Artificial Intelligence with Python
+# CS50-Web Projects
+
+Projects for Harvard's [CS50’sIntroduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) course.
