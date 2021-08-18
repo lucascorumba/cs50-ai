@@ -2,7 +2,7 @@
  AI that identifies which traffic sign appears in a photograph.
  
 ## Database
-* Download the [data set](https://cdn.cs50.net/ai/2020/x/projects/5/gtsrb.zip) (about 180Mb) and unzip it. Move the resulting ``gtsrb`` directory inside of your ``traffic`` directory.
+* Download the [data set](https://cdn.cs50.net/ai/2020/x/projects/5/gtsrb.zip) (about 180Mb) and unzip it. Move the resulting ``gtsrb`` directory inside the ``traffic`` directory.
     * This is the [German Traffic Sign Recognition Benchmark (GTSRB)](http://benchmark.ini.rub.de/?section=gtsrb&subsection=news) dataset, which contains thousands of images of 43 different kinds of road signs.
  
 ## Experimentation
